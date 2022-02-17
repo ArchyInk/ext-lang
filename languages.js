@@ -1,0 +1,56 @@
+/*
+ * @author: Archy
+ * @Date: 2022-02-17 16:32:31
+ * @LastEditors: Archy
+ * @LastEditTime: 2022-02-17 17:23:08
+ * @FilePath: \ext-lang\languages.js
+ * @description:
+ */
+exports.languages = {
+  ".html": "html",
+  ".bash:": "bash",
+  ".cpp": "cpp",
+  ".cs": "csharp",
+  ".css": "css",
+  ".md": "markdown",
+  ".diff": "diff",
+  ".rb": "ruby",
+  ".go": "go",
+  ".toml": "toml",
+  ".ini": "ini",
+  ".java": "java",
+  ".js": "javascript",
+  ".json": "json",
+  ".kt": ".kotlin",
+  ".less": "less",
+  ".lua": "lua",
+  ".mk": "makefile",
+  ".pl": "perl",
+  ".m": "objectivec",
+  ".php": "php",
+  ".phtml": "php-template",
+  ".txt": "plaintext",
+  ".py": "python",
+  ".r": "r",
+  ".rs": "rust",
+  ".scss": "scss",
+  ".sh": "shell",
+  ".sql": "sql",
+  ".swift": "swift",
+  ".yaml": "yaml",
+  ".ts": "typescript",
+  ".htaccess": "apache",
+  ".dockerfile": "dockerfile",
+  ".hbs": "handlebars",
+  ".ps1": "powershell",
+  ".adoc": "asciidoc",
+  ".tex": "latex",
+  ".gcode": "gcode",
+  ".coffee": "coffeescript",
+  ".sce": "scilab",
+  ".cr": "crystal",
+  ".ex": "elixir",
+  ".xquery": "xquery",
+  ".sqf": "sqf",
+  ".xml": "xml",
+};

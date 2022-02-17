@@ -1,0 +1,25 @@
+{
+  "name": "ext2lang",
+  "version": "1.0.0",
+  "description": "Conversion tool between extname and language type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArchyInk/ext2lang.git"
+  },
+  "keywords": [
+    "convert",
+    "tool",
+    "language",
+    "extname"
+  ],
+  "author": "archy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArchyInk/ext2lang/issues"
+  },
+  "homepage": "https://github.com/ArchyInk/ext2lang#readme"
+}
