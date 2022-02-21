@@ -1,6 +1,6 @@
 {
   "name": "ext2lang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Conversion tool between extname and language type",
   "main": "index.js",
   "scripts": {
