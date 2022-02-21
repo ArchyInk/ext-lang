@@ -4,6 +4,6 @@
 Conversion tool between extname and language type
 
 ```
-const extlang = require('ext2lang').default
-console.log(extlang('.js')); //javascript
+const extlang = require('ext2lang')
+console.log(extlang('.js')); //output: javascript
 ```
